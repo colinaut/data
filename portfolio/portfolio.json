@@ -29,6 +29,11 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/colinaut/data@6b267af55f67e47f2609c3a0124413cd28c4779c/portfolio/images/37304880_10156299746000491_4517727746197028864_n.jpg",
+			"name": "Colinaut",
+			"@type": "Painting"
 		}
 	]
 }
